@@ -27,11 +27,6 @@ The app *Sumer House* is evaluated across the following attributes.
 ### Prerequisites 
 Download Unity and Unity Editor Version 2020.3.26f [Unity Download Link](https://unity3d.com/get-unity/download/archive)
 
-### Clone the repository
-~~~
-$ git clone https://github.com/SanCarlos25/UnityGame.git
-~~~
-
 ## Product Specs 
 
 ### 1. User Stories (Required and Optional)
